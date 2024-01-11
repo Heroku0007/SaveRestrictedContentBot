@@ -90,7 +90,7 @@ Deploy your bot on `heroku`
 Buildpacks for manual deploy:
 
 - `heroku/python`
-- `https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git`
+- `https://github.com/heroku0007/heroku-buildpack-ffmpeg-latest.git`
 
 Deploy your bot on `Okteto` [Useless]
   
